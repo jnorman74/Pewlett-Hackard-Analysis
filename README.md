@@ -64,3 +64,5 @@ making over 100K a year and between the ages 50 - 65.
 
 - This table could be of value as these are staff that are highly paid and have
 much life and work experience that could be utilized for the mentorship program.
+
+![Senior Staff Query:](Analysis/SenoirStaffTable.png)
